@@ -11,7 +11,7 @@ int main () {
     a=3.14*r*r;
 
 
-    printf("perimeter of circle %f",p);<br>
+    printf("perimeter of circle %f",p);
     printf("area of circle %f",a);
 
 
